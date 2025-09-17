@@ -32,5 +32,5 @@ Fidel Alexander Bonilla | Luis Adrián Uribe Cruz
 
 
 
-The following is a project
+The following project
 
