@@ -52,7 +52,7 @@ See version 13 for the latest training and test results at detail. We are curren
 
 
 
-### Link to the latest version of the notebook (version 13)
+### Link to the latest version of the notebook
 
 
 
